@@ -5,3 +5,5 @@ git add <file> or git add .
 git log  
 git commit -m "desc of the file name " 
 git push ----- 
+user name as in the profile
+password 
