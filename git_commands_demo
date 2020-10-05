@@ -1,0 +1,7 @@
+git clone <url>
+create the file
+git status 
+git add <file> or git add . 
+git log  
+git commit -m "desc of the file name " 
+git push ----- 
